@@ -5,7 +5,7 @@ Although i didn't do these projects alone and myself but these projects were par
 
 ## Projects Included
 1. Tic-Tac-Toe (Python)
-2. Library Management System (SQL)
+2. Library Management System (C++ and oop)
 3. Real Estate Database (SQL)
 4. Diabetes Prediction (Python, ML basics)
 
